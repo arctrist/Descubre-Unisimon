@@ -472,7 +472,7 @@ RectTransform:
   m_LocalRotation: {x: -0, y: -0, z: 0.000000059604645, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 4.813775, y: 25.852133, z: 3.657044}
-  m_ConstrainProportionsScale: 0
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 129338198}
   - {fileID: 1023259677}
@@ -624,7 +624,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Conoce nuestros
+  m_text: "Informaci\xF3n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e2225a5dca92f3549b0a77a3896bfe70, type: 2}
   m_sharedMaterial: {fileID: -7291197456095681011, guid: e2225a5dca92f3549b0a77a3896bfe70, type: 2}
@@ -1028,7 +1028,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Salones
+  m_text: Aulas
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e2225a5dca92f3549b0a77a3896bfe70, type: 2}
   m_sharedMaterial: {fileID: -7291197456095681011, guid: e2225a5dca92f3549b0a77a3896bfe70, type: 2}
@@ -1055,11 +1055,11 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 25.7
+  m_fontSize: 33
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
-  m_fontSizeMin: 14.12
+  m_fontSizeMin: 33
   m_fontSizeMax: 69.8
   m_fontStyle: 0
   m_HorizontalAlignment: 1
@@ -1596,7 +1596,7 @@ RectTransform:
   m_GameObject: {fileID: 2114355705}
   m_LocalRotation: {x: -0, y: -0, z: 0.000000059604645, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 4.813775, y: 25.852133, z: 3.657044}
+  m_LocalScale: {x: 4.813775, y: 25.85213, z: 1.7172382}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 779506253}
@@ -1605,7 +1605,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -619}
+  m_AnchoredPosition: {x: 0.000022888, y: -536}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2114355710
