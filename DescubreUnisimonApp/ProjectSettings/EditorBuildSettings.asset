@@ -6,12 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Inicio.unity
-    guid: c402f2b3c7f979545a1140f16339b243
+    path: Assets/Scenes/Inicio mejorado.unity
+    guid: 7f9d77772721c984fbde231636b5680a
   - enabled: 1
-    path: Assets/Scenes/AR camera - Salones.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/Camara Historia - mejorada.unity
+    guid: db0a17d3a4816aa4591fa9c312aeeb85
   - enabled: 1
-    path: Assets/Scenes/AR camera - Historia.unity
-    guid: b4c3cbd447007be488a02a9f1c92a920
+    path: Assets/Scenes/Experiencia (juego) Sala DIM Buena.unity
+    guid: ccf11c371f1deee4eaf3e034a3c3840a
+  - enabled: 1
+    path: Assets/Scenes/Espacios Unisimon.unity
+    guid: 9469074728d327d4b866c4623a3ad859
   m_configObjects: {}
